@@ -100,3 +100,9 @@ Open Data Sites and national scale datasets should be near the top of each secti
     * Provider: Harvard Dataverse
     * Links : [About](https://geoffboeing.com/publications/street-network-models-indicators-world/)/ [Geopackage Download](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ)
 
+* **Location Affordability Index**
+   * Description: Assessment of affordability that combines both housing and transportation costs at the census tract level. 
+   * License: Public
+   * Geographic Coverage: United States
+   * Provider: US Department of Housing & Urban Development
+   * Links: [Dataset](https://hudgis-hud.opendata.arcgis.com/search?q=Location%20Affordability)/ [ArcGIS map](https://www.arcgis.com/home/webmap/viewer.html?layers=de341c1338c5447da400c4e8c51ae1f6)
